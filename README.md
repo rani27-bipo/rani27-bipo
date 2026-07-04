@@ -62,7 +62,7 @@ Each project follows the same structure: **Objective → Features → Technologi
 
 *Academic project — ENSAM Casablanca*
 
-![Architecture Diagram](./docs/siem-soar-dashboard.png)
+![Architecture Diagram](rani27-bipo/docs/siem-soar-dashboard.png)
 *dashboard screenshot / workflow diagram*
 
 **Objective:** Simulate a functioning SOC pipeline — from log ingestion to
