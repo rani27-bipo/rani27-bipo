@@ -9,7 +9,7 @@
 ![Languages](https://img.shields.io/github/languages/count/[github-username]/[repo-name])
 ![Top Language](https://img.shields.io/github/languages/top/[github-username]/[repo-name])
 
-[LinkedIn](https://linkedin.com/in/[your-linkedin]) · [Email](mailto:[your-email]) · [TryHackMe](https://tryhackme.com/p/[your-profile]) · [Hack The Box](https://app.hackthebox.com/profile/[your-id])
+[LinkedIn](https://linkedin.com/in/[your-linkedin]) · [Email](mailto:[your-email]) 
 
 </div>
 
