@@ -86,8 +86,8 @@ automated incident response — using a low-code orchestration engine.
 
 *Academic project — team of 4 students, supervised by [SUPERVISOR NAME], [DATE]*
 
-![CyberTrace Login & Main Menu](docs/screenshots/cybertrace_cti_menu.png)
-![CyberTrace Demo Report](docs/screenshots/platform_cybertrace.png))
+![CyberTrace Login & Main Menu](docs/screenshots/platform_cybertrace.png)
+![CyberTrace Demo Report](docs/screenshots/cybertrace_cti_menu.png)
 
 
 
