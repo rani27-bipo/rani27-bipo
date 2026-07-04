@@ -1,208 +1,165 @@
 <div align="center">
 
-# 👋 ZOUBDANE RANYA
+# 🛡️ Cybersecurity & Cloud Computing Portfolio
 
-### Cybersecurity Student | Aspiring SOC Analyst | Blue Team | Threat Intelligence
+## 👋 RANYA ZOUBDANE
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Last Commit](https://img.shields.io/github/last-commit/[github-username]/[repo-name])
-![Languages](https://img.shields.io/github/languages/count/[github-username]/[repo-name])
-![Top Language](https://img.shields.io/github/languages/top/[github-username]/[repo-name])
+### Cybersecurity & Cloud Computing Student  
+**SOC Analyst · Blue Team · Detection Engineering · Incident Response**
 
-[LinkedIn](https://linkedin.com/in/ranya-zoubdane-a12bb43b3) · [Email](mailto:ranyazou05@gmail.com) 
+**Focus:** SOC workflows · threat detection · incident response · cloud fundamentals
+
+![Open to Internship](https://img.shields.io/badge/open%20to-SOC%20internship-brightgreen)
+
+[GitHub](https://github.com/rani27-bipo) · [LinkedIn](https://www.linkedin.com/in/ranya-zoubdane-a12bb43b3) · [Email](ranyazou05@gmail.com) 
 
 </div>
 
 ---
 
-## 📑 Table of Contents
-
-- [About](#-about)
-- [Key Areas of Interest](#-key-areas-of-interest)
-- [Projects](#️-projects)
-  - [Academic Projects](#academic-projects)
-  - [Personal Security Labs](#personal-security-labs)
-- [Certifications](#-certifications)
-- [Hands-on Platforms](#-hands-on-platforms)
-- [Technical Skills](#️-technical-skills)
-- [Current Learning](#-current-learning)
-- [Repository Structure](#-repository-structure)
-- [Contact](#-contact)
-- [License](#-license)
-
----
-
 ## 🎯 About
 
-I'm a cybersecurity student building a solid foundation toward a career as a
-**SOC Analyst / Blue Team practitioner**. My approach combines academic
-projects, hands-on labs, and industry certifications to develop practical
-skills in detection, incident response, and threat intelligence — rather
-than stopping at theory.
+Cybersecurity & Cloud Computing student focused on SOC Analyst and Blue Team roles, with foundational exposure to cloud concepts.
 
-This repository is a working portfolio: each project reflects a specific
-skill I wanted to build, from designing a SOC automation pipeline to
-understanding attacker techniques well enough to detect them. I'm currently
-looking for a **SOC / Security Analyst / Threat Intelligence internship**
-where I can apply and grow these skills in a real operational environment.
+I build through practice:
+- SOC automation using **n8n, PostgreSQL, and threat intelligence APIs**
+- Threat intelligence platform (IOC, APT, MITRE ATT&CK correlation)
+- Offensive security labs analyzed from a defensive SOC perspective
 
-## 🧭 Key Areas of Interest
-
-`SOC Operations` · `Incident Response` · `Threat Intelligence` · `Digital Forensics (DFIR)` · `Network Security` · `Detection Engineering` · `Security Automation (SOAR)`
+**Goal:** SOC / Security Analyst / Threat Intelligence internship in a real operational environment.
 
 ---
 
-## 🗂️ Projects
+## 🧭 Core Focus Areas
 
-Each project follows the same structure: **Objective → Features → Technologies.**
-
-### Academic Projects
-
-#### 1. [SIEM/SOAR Platform — SOC Automation with n8n](https://github.com/rani27-bipo/siem-soar-n8n)
-
-*Academic project — ENSAM Casablanca*
-
-![Architecture Diagram](docs/screenshots/siem_soar_dashboard.png)
-*dashboard screenshot / workflow diagram*
-
-**Objective:** Simulate a functioning SOC pipeline — from log ingestion to
-automated incident response — using a low-code orchestration engine.
-
-**Features:**
-- Brute-force detection via a persisted state-based detection model (PostgreSQL)
-- Incident deduplication and correlation before escalation
-- Automated enrichment of indicators through external threat intel APIs
-- Human-in-the-loop validation (OTP confirmation) before any remediation action
-- Simulated containment actions (firewall block, host isolation)
-- SLA monitoring with automatic escalation
-- Metrics dashboard (MTTD / MTTR)
-
-**Technologies:**
-`n8n` · `PostgreSQL / Supabase` · `Twilio API` · `VirusTotal API` · `AbuseIPDB API` · `MITRE ATT&CK`
+SOC Operations · Log Analysis · Alert Triage · Incident Response · Detection Engineering · Threat Intelligence · Network Security · Cloud Fundamentals
 
 ---
 
-#### 2. [CyberTrace CTI — Threat Intelligence Platform](https://github.com/hounaidabenaissa06-collab/cybertrace-cti)
+## 🗺️ Portfolio Overview
 
-*Academic project — team of 4 students, supervised by [SUPERVISOR NAME], [DATE]*
+SOC-centric workflow:
 
-![CyberTrace Login & Main Menu](docs/screenshots/platform_cybertrace.png)
-![CyberTrace Demo Report](docs/screenshots/cybertrace_cti_menu.png)
+**Detection → Enrichment → Correlation → Response → Analysis**
 
+---
 
+## 🧪 Projects
 
-*Add: class diagram / UI screenshot*
+### 1. SIEM/SOAR — SOC Automation (n8n + PostgreSQL)(https://github.com/rani27-bipo/siem-soar-n8n)
 
-**Objective:** Build a platform to manage and correlate threat intelligence
-data (indicators, threat actors, APT groups) mapped to a recognized
-adversary framework.
+Academic — ENSAM Casablanca
 
-**Features:**
+Simulated SOC pipeline:
+- Brute-force detection using a **5-state memory model (PostgreSQL)**
+- IOC enrichment (VirusTotal, AbuseIPDB)
+- Human approval via **Twilio WhatsApp OTP**
+- Simulated response (block/isolate)
+- SLA tracking (MTTD / MTTR)
+
+**Stack:** n8n · PostgreSQL · Twilio · VirusTotal · AbuseIPDB · MITRE ATT&CK
+
+**Key skills:**
+- False-positive handling
+- Log correlation with state-based detection
+- Incident lifecycle design (detect → enrich → approve → respond)
+
+**Limitations:** simulation only · no real SIEM/EDR ingestion · manual thresholds
+
+---
+
+### 2. CyberTrace CTI — Threat Intelligence Platform ((https://github.com/hounaidabenaissa06-collab/cybertrace-cti))
+
+Team project (4 members)
+
+Java platform for:
 - IOC management (IP, hash, domain, email)
-- Threat actor and APT group profiling
-- Campaign simulation based on MITRE ATT&CK
-- Layered architecture with dedicated service/repository/security modules
-- Unit test coverage (JUnit)
+- Threat actor & APT modeling
+- MITRE ATT&CK correlation
 
-**Technologies:**
-`Java 17` · `Maven` · `JUnit` · `MITRE ATT&CK`
+**My role:** [IOC module / security layer / testing — fill]
 
----
+**Stack:** Java · Maven · JUnit · MITRE ATT&CK
 
-#### 3. [Secure Routing — Dijkstra / OSPF](https://github.com/rani27-bipo/mini-projet-routage-securise)
+**Key skills:**
+- Threat correlation modeling (not just storage)
+- IOC validation & data integrity
+- Security-oriented architecture design
 
-*Academic project — individual, supervised by [SUPERVISOR NAME], [DATE]*
-
-![Topology Diagram](docs/screenshots/topology_diagram.png)
-*Add: Packet Tracer topology screenshot*
-
-**Objective:** Apply graph theory to network routing decisions by
-prioritizing security over raw performance in a sensitive-data network.
-
-**Features:**
-- Custom cost metric: `Cost = Latency + 10 × Risk`
-- Optimal path computation across an 8-router mesh network
-- Resilience testing under single and multiple link failures
-- Automatic OSPF failover analysis
-
-**Technologies:**
-`Cisco Packet Tracer` · `OSPF` · `Dijkstra's Algorithm`
+**Limitations:** local dataset · no live threat feeds
 
 ---
 
-### Personal Security Labs
+### 3. Secure Routing — Dijkstra / OSPF Security Model(https://github.com/rani27-bipo/mini-projet-routage-securise)
 
-#### 4. [Reverse Shell Lab — Metasploit / Meterpreter](https://github.com/rani27-bipo/reverse-shell-lab)
+Academic project — individual
 
-![Lab Screenshot](docs/screenshots/reverse_shell_demo.png)
-*Add: Meterpreter session screenshot*
+Security-driven routing:
+**Cost = Latency + 10 × Risk**
 
-**Objective:** Understand a full attack chain end-to-end, from payload
-delivery to post-exploitation, to build better detection logic.
+- 8-router simulated network
+- Secure path prioritization over performance
+- OSPF failover testing
 
-**Features:**
-- Payload generation and delivery (isolated host-only network)
-- Meterpreter session and post-exploitation (recon, screenshot, keylogging)
-- Full mapping to the Cyber Kill Chain
-- Blue Team detection analysis (EDR/network indicators, Sigma rule)
-- Remediation recommendations
+**Stack:** Cisco Packet Tracer · OSPF · Dijkstra
 
-**Technologies:**
-`Metasploit Framework` · `msfvenom` · `Parrot OS` · `Windows 10` · `Sigma`
+**Key skills:**
+- Risk-based routing design
+- Resilience testing
+- Security-aware network thinking
 
-> ⚠️ Conducted exclusively in an isolated, host-only lab environment for
-> educational purposes. No real system was targeted.
+**Limitations:** simulated environment · manual risk scoring
 
 ---
 
-#### 5. [SMBv1 Exploitation Lab](https://github.com/rani27-bipo/vuln-smb-v1-exploitation-lab)
+## 🔐 Security Labs (Isolated Environments)
 
-![Lab Screenshot](docs/screenshots/smb_demo.png)
-*Add: Nmap scan / smbclient enumeration screenshot*
+> Conducted strictly in isolated lab environments. No real systems were targeted.
 
-**Objective:** Demonstrate the real-world impact of a deprecated protocol
-left enabled in a corporate environment, and map its detection.
+### Reverse Shell Lab (Metasploit)(https://github.com/rani27-bipo/reverse-shell-lab)
 
-**Features:**
-- Network reconnaissance and service enumeration (Nmap)
-- Exploitation of weak credentials on an SMBv1 share
-- Data enumeration and exfiltration via smbclient
-- SOC detection analysis (Windows Event IDs, IDS signatures)
-- Hardening recommendations (SMBv1 disablement, MFA, least privilege)
+- Full attack chain: payload → session → post-exploitation
+- Detection mapping (Cyber Kill Chain → SOC signals)
+- Sigma-based detection logic
 
-**Technologies:**
-`Nmap` · `smbclient` · `VirtualBox / VMware`
+**Key skills:** EDR behavior analysis · detection engineering · log interpretation  
+**Limitations:** no real EDR validation
 
-> ⚠️ Conducted exclusively in an isolated lab environment for educational
-> purposes. No real system was targeted.
+---
+
+### SMBv1 Exploitation Lab (https://github.com/rani27-bipo/vuln-smb-v1-exploitation-lab)
+
+- Network enumeration (Nmap)
+- SMBv1 exploitation (weak credentials)
+- SOC mapping to Windows Event IDs (4624/5140/5145)
+
+**Key skills:** vulnerability-to-detection mapping · legacy protocol risk analysis  
+**Limitations:** static lab dataset
 
 ---
 
 ## 🏆 Certifications
 
-| Certificate | Issuer | Date |
-|---|---|---|
-| IBM Cybersecurity Fundamentals | IBM |
-| Introduction to Cybersecurity | Cisco Networking Academy | 
-| Python Essentials 1 | Cisco Networking Academy | 
-| C Essentials 1 | Cisco Networking Academy | 
-| NSE 1 — Network Security Awareness | Fortinet | 
-| NSE 2 — Network Security Associate | Fortinet | 
-| NSE 4 — Security & Administrator | Fortinet | 
-| Belkasoft DFIR | Belkasoft | 
-| Certified Phishing Prevention Specialist | Hack & Fix | 
+**Core**
+- Fortinet NSE 4 — Security & Administrator
+- IBM Cybersecurity Fundamentals
+- Cisco Introduction to Cybersecurity
+
+**Additional**
+- Fortinet NSE 1 & NSE 2
+- Belkasoft DFIR
+- Cisco Python Essentials 1 & C Essentials 1
+- Certified Phishing Prevention Specialist
 
 ---
 
 ## 🧪 Hands-on Platforms
 
-**TryHackMe** — Top 25% · 8 badges · 26 rooms completed, covering networking
-fundamentals (OSI, DNS, HTTP, LAN), Linux, SOC L1 (Alert Triage & Reporting),
-offensive/defensive security basics, EDR, and AI security fundamentals.
+**TryHackMe:** Top 25% — 26 rooms completed  
+Focus: SOC L1 (triage, alert handling), networking, EDR fundamentals
 
-
-**Hack The Box** — Certificate awarded after completing a CTF challenge.
-
+**Hack The Box:** CTF experience  
+Focus: structured enumeration methodology
 
 ---
 
@@ -210,55 +167,54 @@ offensive/defensive security basics, EDR, and AI security fundamentals.
 
 **Languages:** Python · C · Java · SQL
 
-**Systems:** Windows · Linux (Debian/Ubuntu, Parrot OS) · Proxmox VE
+**SOC & Security:** Log Analysis · Incident Response · Detection Engineering · MITRE ATT&CK · Cyber Kill Chain
 
-**Security Tools:** Metasploit Framework · Nmap · Wireshark · smbclient
+**Infrastructure:** Linux · Windows · Proxmox · Networking basics · OSPF
 
-**Frameworks & Concepts:** MITRE ATT&CK · Cyber Kill Chain · OSI Model · TCP/IP
+**Tools:** n8n · Metasploit · Nmap · Wireshark · smbclient
 
-**Automation & Orchestration:** n8n · REST APIs (VirusTotal, AbuseIPDB, Twilio)
-
-**Networking:** OSPF · Routing & Switching · Cisco Packet Tracer
-
-**Databases:** PostgreSQL · Supabase
-
-## 📚 Current Learning
-
-Actively building hands-on experience with:
-
-- **Wazuh** — open-source SIEM / XDR
-- **Suricata** — network intrusion detection (IDS/IPS)
-- **Sigma Rules** — vendor-agnostic detection rule writing
-- **Microsoft Sentinel** — cloud-native SIEM/SOAR
-- **Splunk** — log analysis and correlation
+**Cloud (foundation):** IAM · Logging · Shared Responsibility Model
 
 ---
 
-## 📁 Repository Structure
+## 📚 Current Learning
 
-```
-.
-├── siem-soar-n8n/                      # SOC automation platform (n8n)
-├── cybertrace-cti/                     # Threat intelligence platform (Java)
-├── mini-projet-routage-securise/       # Secure routing (Dijkstra/OSPF)
-├── reverse-shell-lab/                  # Offensive lab (Metasploit)
-├── vuln-smb-v1-exploitation-lab/       # Offensive lab (SMBv1)
-├── docs/
-│   └── screenshots/                    # Architecture diagrams & screenshots
-└── README.md
-```
+- Wazuh (SIEM / XDR)
+- Suricata (Network Detection)
+- Sigma Rules (Detection Engineering)
+- Microsoft Sentinel (Cloud SIEM)
+- Splunk (Log Analysis)
+- Cloud fundamentals (IAM, logging, architecture)
+
+---
+
+## 🧠 Key Learnings
+
+- Detection must exist before automation
+- One reliable alert > complex unused pipeline
+- Human approval is a design choice, not a limitation
+- Documentation defines project credibility
+
+---
+
+## 🚀 Future Improvements
+
+- Move from simulation → real SOC pipeline (Wazuh integration)
+- Add Suricata for network-based detection
+- Compare cloud SIEMs (Sentinel / Splunk)
+- Improve thresholds using real datasets
 
 ---
 
 ## 📫 Contact
 
-Open to **SOC Analyst / Security Analyst / Threat Intelligence internship**
-opportunities.
+Open to **SOC Analyst · Security Analyst · Threat Intelligence · Cloud Security internships**
 
-- LinkedIn:(https://linkedin.com/in/ranya-zoubdane-a12bb43b3)
-- Email: (ranyazou05@gmail.com)
+[GitHub](https://github.com/rani27-bipo) · [LinkedIn](https://www.linkedin.com/in/ranya-zoubdane-a12bb43b3) · [Email](ranyazou05@gmail.com) 
+
+---
 
 ## 📄 License
 
-This repository is licensed under the [MIT License](./LICENSE).
+MIT License
 
