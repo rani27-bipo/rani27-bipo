@@ -214,7 +214,7 @@ Open to **SOC Analyst · Security Analyst · Threat Intelligence · Cloud Securi
 
 ---
 
-## 📄 License
+## 📄 [License](License)
 
 MIT License
 
