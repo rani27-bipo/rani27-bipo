@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 [FIRST NAME] [LAST NAME]
+# 👋 ZOUBDANE RANYA
 
 ### Cybersecurity Student | Aspiring SOC Analyst | Blue Team | Threat Intelligence
 
