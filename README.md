@@ -86,7 +86,11 @@ automated incident response — using a low-code orchestration engine.
 
 *Academic project — team of 4 students, supervised by [SUPERVISOR NAME], [DATE]*
 
-![Architecture Diagram](./docscybertrace-architecture.png)
+![CyberTrace Login & Main Menu](docs/screnshots/cybertrace_cti_menu.png)
+![CyberTrace Demo Report](docs/screnshots/platform_cybertrace.png))
+
+
+
 *Add: class diagram / UI screenshot*
 
 **Objective:** Build a platform to manage and correlate threat intelligence
