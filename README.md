@@ -157,7 +157,7 @@ delivery to post-exploitation, to build better detection logic.
 
 #### 5. [SMBv1 Exploitation Lab](https://github.com/rani27-bipo/vuln-smb-v1-exploitation-lab)
 
-![Lab Screenshot](./docs/screenshots/smb-demo.png)
+![Lab Screenshot](docs/screenshots/smb_demo.png)
 *Add: Nmap scan / smbclient enumeration screenshot*
 
 **Objective:** Demonstrate the real-world impact of a deprecated protocol
