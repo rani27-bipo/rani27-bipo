@@ -4,7 +4,7 @@
 
 ## 👋 RANYA ZOUBDANE
 
-### Cybersecurity & Cloud Computing Student  
+### Cybersecurity & Cloud Computing Engineering Student  
 **SOC Analyst · Blue Team · Detection Engineering · Incident Response**
 
 **Focus:** SOC workflows · threat detection · incident response · cloud fundamentals
