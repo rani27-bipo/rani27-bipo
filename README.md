@@ -113,7 +113,7 @@ adversary framework.
 
 *Academic project — individual, supervised by [SUPERVISOR NAME], [DATE]*
 
-![Topology Diagram](./docs/screenshots/routing-topology.png)
+![Topology Diagram](docs/screenshots/topology_diagram.png)
 *Add: Packet Tracer topology screenshot*
 
 **Objective:** Apply graph theory to network routing decisions by
