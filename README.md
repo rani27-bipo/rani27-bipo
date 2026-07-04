@@ -262,8 +262,3 @@ opportunities.
 
 This repository is licensed under the [MIT License](./LICENSE).
 
----
-
-**Before publishing:** replace all `[DATE]`, `[SUPERVISOR NAME]`, `[github-username]`,
-`[LinkedIn]`, and `[Email]` placeholders, add real screenshots/diagrams under
-`docs/screenshots/`, and confirm each project repository is public.
