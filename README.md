@@ -182,15 +182,15 @@ left enabled in a corporate environment, and map its detection.
 
 | Certificate | Issuer | Date |
 |---|---|---|
-| IBM Cybersecurity Fundamentals | IBM | [DATE] |
-| Introduction to Cybersecurity | Cisco Networking Academy | [DATE] |
-| Python Essentials 1 | Cisco Networking Academy | [DATE] |
-| C Essentials 1 | Cisco Networking Academy | [DATE] |
-| NSE 1 — Network Security Awareness | Fortinet | [DATE] |
-| NSE 2 — Network Security Associate | Fortinet | [DATE] |
-| NSE 4 — Security & Administrator | Fortinet | [DATE] |
-| Belkasoft DFIR | Belkasoft | [DATE] |
-| Certified Phishing Prevention Specialist | [ISSUER] | [DATE] |
+| IBM Cybersecurity Fundamentals | IBM |
+| Introduction to Cybersecurity | Cisco Networking Academy | 
+| Python Essentials 1 | Cisco Networking Academy | 
+| C Essentials 1 | Cisco Networking Academy | 
+| NSE 1 — Network Security Awareness | Fortinet | 
+| NSE 2 — Network Security Associate | Fortinet | 
+| NSE 4 — Security & Administrator | Fortinet | 
+| Belkasoft DFIR | Belkasoft | 
+| Certified Phishing Prevention Specialist | Hack & Fix | 
 
 ---
 
@@ -256,7 +256,7 @@ Open to **SOC Analyst / Security Analyst / Threat Intelligence internship**
 opportunities.
 
 - LinkedIn:(https://linkedin.com/in/ranya-zoubdane-a12bb43b3)
-- Email: (mailto:ranyazou05@gmail.com)
+- Email: (ranyazou05@gmail.com)
 
 ## 📄 License
 
