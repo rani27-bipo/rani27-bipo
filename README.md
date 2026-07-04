@@ -199,10 +199,10 @@ left enabled in a corporate environment, and map its detection.
 **TryHackMe** — Top 25% · 8 badges · 26 rooms completed, covering networking
 fundamentals (OSI, DNS, HTTP, LAN), Linux, SOC L1 (Alert Triage & Reporting),
 offensive/defensive security basics, EDR, and AI security fundamentals.
-[View profile ](https://tryhackme.com/p/[your-profile])
+
 
 **Hack The Box** — Certificate awarded after completing a CTF challenge.
-[View profile ](docs/htb_ctf)
+
 
 ---
 
@@ -255,8 +255,8 @@ Actively building hands-on experience with:
 Open to **SOC Analyst / Security Analyst / Threat Intelligence internship**
 opportunities.
 
-- LinkedIn: [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/ranya-zoubdane-a12bb43b3)
-- Email: [your-email@example.com](mailto:ranyazou05@gmail.com)
+- LinkedIn:(https://linkedin.com/in/ranya-zoubdane-a12bb43b3)
+- Email: (mailto:ranyazou05@gmail.com)
 
 ## 📄 License
 
