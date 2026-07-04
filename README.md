@@ -58,7 +58,7 @@ Each project follows the same structure: **Objective → Features → Technologi
 
 ### Academic Projects
 
-#### 1. [SIEM/SOAR Platform — SOC Automation with n8n](https://github.com/[github-username]/siem-soar-n8n)
+#### 1. [SIEM/SOAR Platform — SOC Automation with n8n](https://github.com/rani27-bipo/siem-soar-n8n)
 
 *Academic project — ENSAM Casablanca*
 
@@ -82,7 +82,7 @@ automated incident response — using a low-code orchestration engine.
 
 ---
 
-#### 2. [CyberTrace CTI — Threat Intelligence Platform](https://github.com/[github-username]/cybertrace-cti)
+#### 2. [CyberTrace CTI — Threat Intelligence Platform](https://github.com/hounaidabenaissa06-collab/cybertrace-cti)
 
 *Academic project — team of 4 students, supervised by [SUPERVISOR NAME], [DATE]*
 
@@ -105,7 +105,7 @@ adversary framework.
 
 ---
 
-#### 3. [Secure Routing — Dijkstra / OSPF](https://github.com/[github-username]/mini-projet-routage-securise)
+#### 3. [Secure Routing — Dijkstra / OSPF](https://github.com/rani27-bipo/mini-projet-routage-securise)
 
 *Academic project — individual, supervised by [SUPERVISOR NAME], [DATE]*
 
@@ -128,7 +128,7 @@ prioritizing security over raw performance in a sensitive-data network.
 
 ### Personal Security Labs
 
-#### 4. [Reverse Shell Lab — Metasploit / Meterpreter](https://github.com/[github-username]/reverse-shell-lab)
+#### 4. [Reverse Shell Lab — Metasploit / Meterpreter](https://github.com/rani27-bipo/reverse-shell-lab)
 
 ![Lab Screenshot](./docs/screenshots/reverse-shell-demo.png)
 *Add: Meterpreter session screenshot*
@@ -151,7 +151,7 @@ delivery to post-exploitation, to build better detection logic.
 
 ---
 
-#### 5. [SMBv1 Exploitation Lab](https://github.com/[github-username]/vuln-smb-v1-exploitation-lab)
+#### 5. [SMBv1 Exploitation Lab](https://github.com/rani27-bipo/vuln-smb-v1-exploitation-lab)
 
 ![Lab Screenshot](./docs/screenshots/smb-demo.png)
 *Add: Nmap scan / smbclient enumeration screenshot*
