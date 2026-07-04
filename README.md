@@ -134,7 +134,7 @@ prioritizing security over raw performance in a sensitive-data network.
 
 #### 4. [Reverse Shell Lab — Metasploit / Meterpreter](https://github.com/rani27-bipo/reverse-shell-lab)
 
-![Lab Screenshot](./docs/screenshots/reverse-shell-demo.png)
+![Lab Screenshot](docs/screenshots/reverse_shell_demo.png)
 *Add: Meterpreter session screenshot*
 
 **Objective:** Understand a full attack chain end-to-end, from payload
