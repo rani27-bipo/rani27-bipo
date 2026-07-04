@@ -60,10 +60,10 @@ Each project follows the same structure: **Objective → Features → Technologi
 
 #### 1. [SIEM/SOAR Platform — SOC Automation with n8n](https://github.com/[github-username]/siem-soar-n8n)
 
-*Academic project — ENSAM Casablanca, supervised by [SUPERVISOR NAME], [DATE]*
+*Academic project — ENSAM Casablanca*
 
-![Architecture Diagram](./docs/screenshots/siem-soar-architecture.png)
-*Add: dashboard screenshot / workflow diagram*
+![Architecture Diagram](./docs/siem-soar-dashboard.png)
+*dashboard screenshot / workflow diagram*
 
 **Objective:** Simulate a functioning SOC pipeline — from log ingestion to
 automated incident response — using a low-code orchestration engine.
@@ -86,7 +86,7 @@ automated incident response — using a low-code orchestration engine.
 
 *Academic project — team of 4 students, supervised by [SUPERVISOR NAME], [DATE]*
 
-![Architecture Diagram](./docs/screenshots/cybertrace-architecture.png)
+![Architecture Diagram](./docscybertrace-architecture.png)
 *Add: class diagram / UI screenshot*
 
 **Objective:** Build a platform to manage and correlate threat intelligence
