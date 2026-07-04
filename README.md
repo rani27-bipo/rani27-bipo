@@ -46,7 +46,7 @@ SOC-centric workflow:
 
 ## 🧪 Projects
 
-### 1. SIEM/SOAR — SOC Automation (n8n + PostgreSQL)(https://github.com/rani27-bipo/siem-soar-n8n)
+### 1. [SIEM/SOAR — SOC Automation (n8n + PostgreSQL)](https://github.com/rani27-bipo/siem-soar-n8n)
 
 Academic — ENSAM Casablanca
 
@@ -68,7 +68,7 @@ Simulated SOC pipeline:
 
 ---
 
-### 2. CyberTrace CTI — Threat Intelligence Platform ((https://github.com/hounaidabenaissa06-collab/cybertrace-cti))
+### 2. [CyberTrace CTI — Threat Intelligence Platform](https://github.com/rani27-bipo/cybertrace-cti)
 
 Team project (4 members)
 
@@ -90,7 +90,7 @@ Java platform for:
 
 ---
 
-### 3. Secure Routing — Dijkstra / OSPF Security Model(https://github.com/rani27-bipo/mini-projet-routage-securise)
+### 3. [Secure Routing — Dijkstra / OSPF Security Model](https://github.com/rani27-bipo/mini-projet-routage-securise)
 
 Academic project — individual
 
@@ -116,7 +116,7 @@ Security-driven routing:
 
 > Conducted strictly in isolated lab environments. No real systems were targeted.
 
-### Reverse Shell Lab (Metasploit)(https://github.com/rani27-bipo/reverse-shell-lab)
+### [Reverse Shell Lab (Metasploit)](https://github.com/rani27-bipo/reverse-shell-lab)
 
 - Full attack chain: payload → session → post-exploitation
 - Detection mapping (Cyber Kill Chain → SOC signals)
@@ -127,7 +127,7 @@ Security-driven routing:
 
 ---
 
-### SMBv1 Exploitation Lab (https://github.com/rani27-bipo/vuln-smb-v1-exploitation-lab)
+### [SMBv1 Exploitation Lab](https://github.com/rani27-bipo/vuln-smb-v1-exploitation-lab)
 
 - Network enumeration (Nmap)
 - SMBv1 exploitation (weak credentials)
