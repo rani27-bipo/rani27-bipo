@@ -68,7 +68,7 @@ Simulated SOC pipeline:
 
 ---
 
-### 2. [CyberTrace CTI — Threat Intelligence Platform](https://github.com/rani27-bipo/cybertrace-cti)
+### 2. [CyberTrace CTI — Threat Intelligence Platform](https://github.com/hounaidabenaissa06-collab/cybertrace-cti)
 
 Team project (4 members)
 
